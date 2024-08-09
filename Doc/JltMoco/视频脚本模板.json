@@ -1,0 +1,186 @@
+{
+    "CameraType": 2,
+    "CurrentIndex": 2,
+    "MoveDelay": 0,
+    "Nodes": [
+        {
+            "1": {
+                "param": {
+                    "AssistCA": 30,
+                    "PathA": 30,
+                    "PathV": 30,
+                    "PrgV": 30,
+                    "RobotA": 30,
+                    "RobotV": 30,
+                    "TsValue": 0,
+                    "Waiting": 0
+                },
+                "target": {
+                    "A": "113.712",
+                    "A1": "11.6034",
+                    "A2": "128.755",
+                    "A3": "85.3145",
+                    "A4": "171.244",
+                    "A5": "110.275",
+                    "A6": "4.70338",
+                    "B": "4.21763",
+                    "C": "-98.774",
+                    "E1": "1118.19",
+                    "X": "-901.458",
+                    "Y": "-14.769",
+                    "Z": "141.593"
+                },
+                "type": 1
+            },
+            "2": {
+                "ImageInterval": 0,
+                "ImageNum": 1,
+                "ShootMode": 0
+            },
+            "3": {
+                "FocusValue": 3000,
+                "ZoomValue": 3000,
+                "FocusMode":0,
+                "ZoomMode":0,
+                "Length":0,
+                "FocusRecord":{},
+                "ZoomRecord":{}
+            },
+            "4": {
+                "Acc": 30,
+                "Speed": 30,
+                "target": "0"
+            }
+        },
+        {
+            "1": {
+                "param": {
+                    "AssistCA": 30,
+                    "PathA": 30,
+                    "PathV": 30,
+                    "PrgV": 30,
+                    "RobotA": 30,
+                    "RobotV": 30,
+                    "TsValue": 0,
+                    "Waiting": 0
+                },
+                "target": {
+                    "A": "-86.2964",
+                    "A1": "12.8998",
+                    "A2": "72.3328",
+                    "A3": "129.473",
+                    "A4": "157.708",
+                    "A5": "106.909",
+                    "A6": "-97.3713",
+                    "B": "82.755",
+                    "C": "89.6648",
+                    "E1": "737.679",
+                    "X": "-474.631",
+                    "Y": "56.5499",
+                    "Z": "384.111"
+                },
+                "type": 2
+            },
+            "2": {
+                "ImageInterval": 0,
+                "ImageNum": 1,
+                "ShootMode": 0
+            },
+            "3": {
+                "FocusValue": 3000,
+                "ZoomValue": 3000,
+                "FocusMode":0,
+                "ZoomMode":0,
+                "Length":0,
+                "FocusRecord":{},
+                "ZoomRecord":{}
+            },
+            "4": {
+                "Acc": 30,
+                "Speed": 30,
+                "target": "0"
+            }
+        },
+        {
+            "1": {
+                "assist": {
+                    "A": "-86.2964",
+                    "A1": "28.2395",
+                    "A2": "72.3418",
+                    "A3": "129.466",
+                    "A4": "157.639",
+                    "A5": "122.248",
+                    "A6": "-97.5244",
+                    "B": "82.755",
+                    "C": "89.6648",
+                    "E1": "737.679",
+                    "X": "-474.631",
+                    "Y": "-43.5301",
+                    "Z": "384.111"
+                },
+                "param": {
+                    "AssistCA": 180,
+                    "PathA": 30,
+                    "PathV": 30,
+                    "PrgV": 30,
+                    "RobotA": 30,
+                    "RobotV": 30,
+                    "TsValue": 0,
+                    "Waiting": 0
+                },
+                "target": {
+                    "A": "-86.2964",
+                    "A1": "24.7232",
+                    "A2": "78.4412",
+                    "A3": "125.106",
+                    "A4": "155.921",
+                    "A5": "118.732",
+                    "A6": "-97.4846",
+                    "B": "82.755",
+                    "C": "89.6648",
+                    "E1": "737.679",
+                    "X": "-526.711",
+                    "Y": "-43.5301",
+                    "Z": "384.111"
+                },
+                "type": 3
+            },
+            "2": {
+                "ImageInterval": 0,
+                "ImageNum": 1,
+                "ShootMode": 0
+            },
+            "3": {
+                "FocusValue": 3000,
+                "ZoomValue": 3000,
+                "FocusMode":0,
+                "ZoomMode":0,
+                "Length":0,
+                "FocusRecord":{},
+                "ZoomRecord":{}
+            },
+            "4": {
+                "Acc": 30,
+                "Speed": 30,
+                "target": "0"
+            }
+        }
+    ],
+    "RecordingDuration": 10,
+    "Turnplates": {
+        "Acc": 30,
+        "Dec": 30,
+        "Duration": 10,
+        "Ori": 1,
+        "Speed": 30,
+        "StartTime": 0
+    },
+    "FocusRecording": {
+        "deviceId":3,
+        "interval":0,
+        "focus":[0,0,0,0],
+        "zoom":[0,0,0,0],
+        "iris":[0,0,0,0]
+    },
+    "Version": "JTL_SCRIPT_WINDOW_1_0"
+}

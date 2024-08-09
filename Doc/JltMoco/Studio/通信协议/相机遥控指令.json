@@ -1,0 +1,23 @@
+{
+    "deviceId >设备编号 int ":2,
+    "code >指令编码=-1属性更新 =1属性设置 =2设置文件下载目录 =3快门操作 =4录制控制 =5快速格式化磁盘 =7下载最后录制或拍摄的文件 =8实时图像下载 =9实时图像更新 =10焦点控制 =11对焦操作 =12变焦操作 int": 0,
+    "data (code==1)":
+    [
+        {
+            "key >属性密钥 int":0,
+            "currentIndex >设置的索引 int":0,
+            "delayTime >等待时间/ms int":0
+        }
+    ],
+    "data (code==2)>系统目录 string":"dir path",
+    "data (code==3)>3快门操作=0直接拍摄=1自动AF拍摄=2半按快门(按下)=3半按快门(松开) int": 0,
+    "data (code==4)>录制=true启动录制 =false关闭录制 bool": false,
+    "data (code==5)>字段缺省,不用赋值": null,
+    "data (code==7)>下载最后录制或拍摄的文件:字段缺省,不用赋值": null,
+    "data (code==8)>下载地址(目录+文件名.JPG) string": "C:\\Users\\NUC\\Desktop\\OpenCv.JPG",
+    "data (code==9)>=true启动实时流数据更新 bool": false,
+    "x (code==10)> 范围0~1.0 real" : 0,
+    "y (code==10)> 范围0~1.0 real" : 0,
+    "mode (code==10)> int =1仅对焦2对焦拍摄" : 0,
+    "value (code=11.12)> int": 0
+}

@@ -1,0 +1,9 @@
+{
+    "deviceId >设备编号 int ": 7,
+    "code >编码 int": 3,
+    "runmode >运行模式0仅运动=1录制且运动 int": 0,
+    "data >脚本数据 json":
+    {
+
+    }
+}

@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Icon/icon_logo.png</file>
+        <file>Icon/icon_setting.png</file>
+        <file>Icon/icon_studio_link.png</file>
+        <file>Icon/icon_studio_reset.png</file>
+        <file>Icon/icon_upload_cloud.png</file>
+        <file>Icon/loading.png</file>
+        <file>Qml/CustomItem/SwitchTitleItem.qml</file>
+        <file>Qml/CustomItem/CoordinateInput.qml</file>
+        <file>Qml/CustomItem/DataComnoBox.qml</file>
+        <file>Qml/CustomItem/DataTextField.qml</file>
+        <file>Qml/CustomItem/MyMenuItem.qml</file>
+        <file>Qml/CustomItem/ToolButton.qml</file>
+        <file>Qml/JConfigPage.qml</file>
+        <file>Qml/JFreedPage.qml</file>
+        <file>Qml/main.qml</file>
+        <file>Qml/CameraView.qml</file>
+        <file>Qml/CustomItem/RangeItem.qml</file>
+        <file>Qml/CustomItem/CoordinateUnitItem.qml</file>
+        <file>Qml/CustomItem/CameraTransformItem.qml</file>
+        <file>Qml/CustomItem/CoordinateTransFormItem.qml</file>
+        <file>Qml/JCameraPage.qml</file>
+        <file>Qml/CustomItem/CameraProperrtyItem.qml</file>
+        <file>Qml/JRobotPage.qml</file>
+        <file>Qml/Js/JSDeviceRobot.js</file>
+        <file>Qml/Studio/JRobotNodeItem.qml</file>
+        <file>Qml/Studio/JRobotStatusRemoteItem.qml</file>
+        <file>Qml/Js/JSDeviceScript.js</file>
+        <file>Qml/JScriptPage.qml</file>
+        <file>Qml/JFollowFocusPage.qml</file>
+        <file>Qml/CustomItem/DataSlider.qml</file>
+        <file>Qml/DeviceTagItem.qml</file>
+        <file>Qml/JCameraLiveViewWindow.qml</file>
+    </qresource>
+</RCC>

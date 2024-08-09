@@ -1,0 +1,9 @@
+{
+    "deviceId >设备编号 int ":4,
+    "code >=1停止运动 =2速度模式运动 =3绝对模式运动 int": 0,
+    "angle >±360° float":0,
+    "direction >1正向 -1反向 int°":0,
+    "speed >速度1~100 int":0,
+    "acc >加速度1~100 int":0,
+    "dec >减速度1~100 int":0
+}

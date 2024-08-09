@@ -1,0 +1,9 @@
+{
+    "deviceId >设备编号 int ": 7,
+    "code >编码 int": 2,
+    "index >节点编号 int": 0,
+    "data >节点数据 json":
+    {
+
+    }
+}

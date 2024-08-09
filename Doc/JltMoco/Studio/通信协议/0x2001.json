@@ -1,0 +1,27 @@
+{
+    "code >设备静态数据":8193,
+    "data":
+    [
+        {
+            "code =1为设备的静态数据":1,
+            "deviceId 设备ID":1,
+            "pluginData":{
+                "IID":"AbstractRobotInterface",
+                "MetaData":{
+                    "插件配置文件内容":""
+                },
+                "archreq":1,
+                "className":"JakaPlugin",
+                "debug":true,
+                "version":393728
+            },
+            "address 机械臂IP":"",
+            "railAddress 轨道IP":"",
+            "model 型号":"",
+            "caEnable 圆弧节点是否需要设置圆心角":""
+        },
+        {
+
+        }
+    ]
+}

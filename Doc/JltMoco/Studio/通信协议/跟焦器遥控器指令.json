@@ -1,0 +1,21 @@
+{
+    "deviceId >设备编号 int ":3,
+    "code >=1校准 =2对焦控制 =3变焦控制 =4跟焦控制(对焦和变焦和光圈) =5连接跟焦器 =6断开跟焦器 =7光圈遥控 =8对焦使能 =9变焦使能 =10光圈使能 : int": 0,
+    "data >code=1 可不写":0,
+    "data >code=2":{
+        "FocusValue 0-7200":0
+    },
+    "data >code=3":{
+        "ZoomValue 0-7200":0
+    },
+    "data >code=4":{
+        "focus 0-7200":0,
+        "zoom 0-7200":0,
+        "iris 0-7200":0
+    },
+    "data >code=5":"端口名称",
+    "data >code=7":{
+        "IrisValue 0-7200":0
+    },
+    "data >code=8/9/10 =true启用=false禁用":true
+}
